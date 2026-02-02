@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Coral+Pixels&family=Jersey+20&family=Sixtyfour&display=swap');
+
+:root{
+    --verde-1: #00979d;
+    --amarelo-1: #fdf274;
+    --azul-1: #3400b5;
+    --cinza-1: #dadada;
+    --cinza-2: #6f6f6e
+}
+
+.tudo{
+    font-family: "Jersey 20", sans-serif;
+}
+
+#titulo{
+    margin-left: 40%;
+}
+
+body{
+    background-color: var(--verde-1);
+    display: flex;
+    display:flex;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5%;
+}
